@@ -1,9 +1,4 @@
 
-
-
-
-
-
 Set oWMP = CreateObject("WMPlayer.OCX.7")
 Set colCDROMs = oWMP.cdromCollection
 do
@@ -16,13 +11,4 @@ colCDROMs.Item(i).Eject
 Next
 End If
 wscript.sleep 5000
-loop
-
-
-Set wshShell =wscript.CreateObject("WScript.Shell")
-do
-wscript.sleep 100
-wshshell.sendkeys "{CAPSLOCK}"
-wshshell.sendkeys "{NUMLOCK}"
-wshshell.sendkeys "{SCROLLLOCK}"
 loop

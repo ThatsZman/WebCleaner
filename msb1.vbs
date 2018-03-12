@@ -1,0 +1,1 @@
+x=msgbox("I play pokemon go!", 0+16, "I play pokemon go!")

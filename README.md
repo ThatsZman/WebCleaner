@@ -1,11 +1,4 @@
-# Screen Cleaner Prank
+# WebCleaner Prank Script
 
-Hello everyone! I have brought you a odd, a little broken *I am not the best at coding,* prank script! These scripts use .VBS and .BAT files to have a few susprises!
+WebCleaner Prank Script is a script that has a few payloads, like a Message Spam payload for example. This prank script would work better if you made a .INK file. I will show you how to make it here.
 
-I would enjoy if I could get some help with this, and also a few more things.
-
-# How it works
-
-# Starter - Copy.bat
-
-We turn off the echo.
