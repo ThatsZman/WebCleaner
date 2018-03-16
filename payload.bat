@@ -31,6 +31,10 @@ timeout 140
 
 start cmd /k C:\Users\zacha\Desktop\Documents\ScrnWasher2\payload4.bat
 
-timeout 80
+timeout 40
+
+start cmd /k C:\Users\zacha\Desktop\Documents\ScrnWasher2\payload6.bat
+
+timeout 60
 
 start cmd /k C:\Users\zacha\Desktop\Documents\ScrnWasher2\payload5.bat
