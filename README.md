@@ -2,6 +2,8 @@
 
 WebCleaner Prank Script is a script that has a few payloads, like a Message Spam payload for example. This prank script would work better if you made a .INK file.
 
+CURRENT VERSION: V 2.1
+
 Current Payloads:
 
 1. Caps, Num, and Scroll Lock Light Flash.
@@ -16,7 +18,10 @@ Current Payloads:
 4. Microsoft Sam.
   YOUR COMPUTER TALKS TO YOU!!
   
-5. Bye Bye!
+5. Spams words
+  Spams the word when you type, "Wow, wow, wow, earth loves it viruses!"
+  
+6. Bye Bye!
   Well, causes your computer to shutdown.... 
 
 
