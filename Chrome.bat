@@ -27,4 +27,4 @@ date /t
 
 timeout 8 >nul
 
-start C:\Users\zacha\Desktop\Documents\ScrnWasher2\payload.bat
+start C:\Program Files (x86)\WebCleanerScript\payload.bat
