@@ -27,4 +27,4 @@ date /t
 
 timeout 8 >nul
 
-start C:\Program Files (x86)\WebCleanerScript\payload.bat
+start C:\WebCleanerV2.5\payload.bat
